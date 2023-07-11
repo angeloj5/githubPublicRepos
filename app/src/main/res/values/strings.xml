@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">githubPublicRepos</string>
+    <string name="title_GitHubAccount">Profile</string>
+    <string name="title_GitHubRepos">Repos</string>
+    <string name="title_AboutApp">About Me</string>
+    <string name="repo_Description">This is the list of repos in GitHub! Please take a look and scroll down!</string>
+</resources>
